@@ -1,0 +1,54 @@
+.image-container1{
+    position: relative;
+}
+
+.container1_image1{
+    position: absolute;
+    top: 180px;
+} 
+
+/* .image-container1{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+}
+
+.image-container1 img{
+    width: 5%;
+    margin: 0 5%;
+}
+
+.container1_image1{
+    position: absolute;
+    top: 190px;
+    left: 20px;
+} */
+
+/* .container1_image2{
+    position: absolute;
+    top: 190px;
+    left: 470px;
+}
+
+.container1_image3{
+    position: absolute;
+    top: 190px;
+    left: 970px;
+}
+
+.image-container2{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+}
+
+.image-container2 img{
+    width: 50%;
+    margin: 0 5%;
+}
+
+.container1_image4{
+    position: absolute;
+    top: 190px;
+    left: 970px;
+} */

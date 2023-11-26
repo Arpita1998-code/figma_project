@@ -1,0 +1,18 @@
+.parent {
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+  
+  .img-1 {
+    position: absolute;
+    top: 1770px;
+    left: 120px;
+  }
+
+  .img-2 {
+    position: absolute;
+    top: 1680px;
+    left: 736px;
+  }
+  
